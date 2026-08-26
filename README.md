@@ -22,7 +22,9 @@ Both reference folders are gitignored (see `.gitignore`) so the clones stay loca
 | `jcode` | [1jehuang/jcode](https://github.com/1jehuang/jcode) | RAM-efficient coding agent harness |
 | `prime-agent` | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | Self-improving RLM coding and research agent |
 | `deepseek-harness` | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | Plugin-based agent harness ("everything is a plugin") |
+| `meta-harness` | [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness) | Stanford IRIS Lab framework for automated search over task-specific model harnesses (paper: arXiv 2603.28052) |
 | `loop-engineering` | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | Patterns and tooling for designing agent loops |
+| `loopx` | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | Open, provider-neutral, local-first control plane for long-horizon agents (sits on top of Codex, Claude Code, Cursor, dsh) |
 
 ## Support repos (`reference/support`)
 
