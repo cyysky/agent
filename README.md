@@ -28,6 +28,7 @@ Both reference folders are gitignored (see `.gitignore`) so the clones stay loca
 | `maka` | [apache/maka](https://github.com/apache/maka) | Apache Software Foundation (incubating) local-first agent workspace — desktop + CLI + eval, all sharing one Runtime Host that records model messages and tool calls as recoverable execution facts |
 | `loop-engineering` | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | Patterns and tooling for designing agent loops |
 | `loopx` | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | Open, provider-neutral, local-first control plane for long-horizon agents (sits on top of Codex, Claude Code, Cursor, dsh) |
+| `herdr` | [herdrdev/herdr](https://github.com/herdrdev/herdr) | Herdr — Rust terminal multiplexer built as a runtime for coding agents; hosts Claude Code / Codex / Cursor / OpenCode in persistent panes with state detection (working / blocked / idle) and session resume across disconnects; Apache-2.0, Homebrew formula |
 
 ## Support repos (`reference/support`)
 
