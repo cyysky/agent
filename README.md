@@ -23,6 +23,7 @@ Both reference folders are gitignored (see `.gitignore`) so the clones stay loca
 | `prime-agent` | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | Self-improving RLM coding and research agent |
 | `deepseek-harness` | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | Plugin-based agent harness ("everything is a plugin") |
 | `meta-harness` | [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness) | Stanford IRIS Lab framework for automated search over task-specific model harnesses (paper: arXiv 2603.28052) |
+| `jit-agent` | [bingreeky/JIT](https://github.com/bingreeky/JIT) | JIT-Agent — meta-agent that writes a task-specific harness on the fly ("Model-as-a-Harness"); ships 11 seed harnesses and a JIT-27B checkpoint (arXiv 2608.25593) |
 | `headlong` | [laude-institute/headlong](https://github.com/laude-institute/headlong) | Laude Institute's <10K-line Bash agent microharness with persistent agency — the agent keeps thinking between external interactions and decides when to respond |
 | `maka` | [apache/maka](https://github.com/apache/maka) | Apache Software Foundation (incubating) local-first agent workspace — desktop + CLI + eval, all sharing one Runtime Host that records model messages and tool calls as recoverable execution facts |
 | `loop-engineering` | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | Patterns and tooling for designing agent loops |
