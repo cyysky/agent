@@ -18,6 +18,7 @@ Both reference folders are gitignored (see `.gitignore`) so the clones stay loca
 |---|---|---|
 | `codex` | [openai/codex](https://github.com/openai/codex) | OpenAI's local coding agent CLI |
 | `pi` | [earendil-works/pi](https://github.com/earendil-works/pi) | Pi agent harness: coding agent, runtime, multi-provider LLM API |
+| `SoL-Pi` | [NVlabs/SoL-Pi](https://github.com/NVlabs/SoL-Pi) | Standalone extension for Pi packaging four efficiency mechanisms from auto-research: action fusion, observation packing, evidence-preserving reduction, and online context compaction; opt-in, no Pi patches (MIT) |
 | `hermes-agent` | [nousresearch/hermes-agent](https://github.com/nousresearch/hermes-agent) | Self-improving agent by Nous Research with a learning loop |
 | `jcode` | [1jehuang/jcode](https://github.com/1jehuang/jcode) | RAM-efficient coding agent harness |
 | `prime-agent` | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | Self-improving RLM coding and research agent |
