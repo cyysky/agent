@@ -46,6 +46,7 @@ Both reference folders are gitignored (see `.gitignore`) so the clones stay loca
 | `deepwiki-rs` | [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | Litho — Rust AI-driven documentation generator that analyzes a codebase and emits C4-model architecture docs (context, container, component, code level) and AI-ready context; CLI published on crates.io, successor project is `sopaco/terrain`; MIT |
 | `scira` | [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) | Scira (formerly MiniPerplx) — minimalistic agentic search engine that plans, retrieves, and cites; Next.js app on the Vercel AI SDK with multi-provider model routing, web search/content retrieval, and streaming answers; AGPL-3.0, so changes must stay open source |
 | `baalda` | [naveedharri/baalda](https://github.com/naveedharri/baalda) | Baalda — local-first collaborative Markdown "second brain" (Tauri v2, Rust core, TypeScript UI); plain .md files on disk are AI-editable and shared in real time, with a built-in MCP endpoint for agents; Apache-2.0 |
+| `ai-knowledge-graph` | [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) | Turns unstructured documents (`.txt`, `.md`, `.rst`, `.pdf`, `.docx`) into typed Subject-Predicate-Object knowledge graphs via any OpenAI-compatible endpoint; entity standardization, traceable inference, JSON/CSV/GraphML/Neo4j Cypher exports, plus `graph-chat` and `graph-serve` commands; Apache-2.0 |
 
 ## License
 
