@@ -45,6 +45,7 @@ Both reference folders are gitignored (see `.gitignore`) so the clones stay loca
 | `graphiti` | [getzep/graphiti](https://github.com/getzep/graphiti) | Temporal knowledge graphs built from conversations |
 | `zvec-grep` | [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) | zg — local-first search layer for humans and agents; unifies ripgrep, BM25, and vector search behind one interface (powered by zvec), usable from the CLI or by agents, with ranked source-linked results; Apache-2.0 |
 | `deepwiki-rs` | [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | Litho — Rust AI-driven documentation generator that analyzes a codebase and emits C4-model architecture docs (context, container, component, code level) and AI-ready context; CLI published on crates.io, successor project is `sopaco/terrain`; MIT |
+| `scira` | [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) | Scira (formerly MiniPerplx) — minimalistic agentic search engine that plans, retrieves, and cites; Next.js app on the Vercel AI SDK with multi-provider model routing, web search/content retrieval, and streaming answers; AGPL-3.0, so changes must stay open source |
 
 ## License
 
