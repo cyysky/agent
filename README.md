@@ -31,6 +31,7 @@ Both reference folders are gitignored (see `.gitignore`) so the clones stay loca
 | `loopx` | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | Open, provider-neutral, local-first control plane for long-horizon agents (sits on top of Codex, Claude Code, Cursor, dsh) |
 | `herdr` | [herdrdev/herdr](https://github.com/herdrdev/herdr) | Herdr — Rust terminal multiplexer built as a runtime for coding agents; hosts Claude Code / Codex / Cursor / OpenCode in persistent panes with state detection (working / blocked / idle) and session resume across disconnects; Apache-2.0, Homebrew formula |
 | `baalda` | [naveedharri/baalda](https://github.com/naveedharri/baalda) | Baalda — local-first collaborative Markdown "second brain" (Tauri v2, Rust core, TypeScript UI); plain .md files on disk are AI-editable and shared in real time, with a built-in MCP endpoint for agents; Apache-2.0 |
+| `ai-agents-the-definitive-guide` | [Nicolepcx/ai-agents-the-definitive-guide](https://github.com/Nicolepcx/ai-agents-the-definitive-guide) | Companion notebooks for the O'Reilly book *AI Agents: The Definitive Guide*; 12 chapters of Colab-ready Jupyter notebooks spanning agent foundations, architectures and patterns, planning, model choice, production contracts and tool governance, deployment, evaluation, memory, cost, and threat modeling; no license declared |
 
 ## Support repos (`reference/support`)
 
