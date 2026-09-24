@@ -3,3 +3,6 @@ reference/agent/
 
 # Cloned support reference repos are kept locally for reference only
 reference/support/
+
+# Cloned application reference repos are kept locally for reference only
+reference/apps/
